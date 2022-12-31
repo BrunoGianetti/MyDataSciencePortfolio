@@ -17,7 +17,7 @@ The Tech Recruiter or Student can navigate into folders and search for .py and .
 ## Technologys and Status Repo
 
 
-<img src="https://img.shields.io/badge/Subject-Data%20Science-blue"> <img src="https://img.shields.io/github/downloads/brunogianetti/DataSciencePortfolio/total?style=plastic"> <img src="https://img.shields.io/badge/Language-Python-blue"> <img src="https://img.shields.io/badge/Status-always%20under%20construction-yellow">
+<img src="https://img.shields.io/badge/Language-Python-blue"> <img src="https://img.shields.io/badge/Status-always%20under%20construction-yellow"> <img src="https://img.shields.io/github/downloads/brunogianetti/DataSciencePortfolio/total?style=plastic"> 
 
 ## Author
 
