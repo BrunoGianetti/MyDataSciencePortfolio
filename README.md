@@ -17,7 +17,7 @@ The Tech Recruiter or Student can navigate to folder and search for .py archive 
 ## Technologys and Status Repo
 
 
-<img src="https://img.shields.io/github/pipenv/locked/python-version/brunogianetti/DataSciencePortfolio?style=plastic"> <img src="https://img.shields.io/badge/Subject-Data%20Science-blue">
+<img src="https://img.shields.io/badge/Subject-Data%20Science-blue"> <img src="https://img.shields.io/github/downloads/brunogianetti/DataSciencePortfolio/total?style=plastic"> <img src="https://img.shields.io/badge/Language-Python-blue">
 
 :construction: This repo always will be increased along the time with new projects :construction:
 
