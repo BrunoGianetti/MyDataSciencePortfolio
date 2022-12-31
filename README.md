@@ -1,6 +1,6 @@
 # :chart_with_upwards_trend: Data Science Portfolio
 
-## Project description
+## Projects description
 
 This repo contains a several projects in Python for study and show as Portfolio. The images below can ilustrate two examples of many projects that will incrise in time.
 
@@ -9,6 +9,13 @@ Project: Linear Regression 1.
 
 Project: Distribuition of President's Heights 2.
 ![Image of Script and Runtime execution about Distribution of President's Height](https://user-images.githubusercontent.com/55636879/210118586-747aaf69-ed37-4314-aed5-5a6ffaa51962.PNG)
+
+## The current projects in this repo are:
+
+| Name | Description |
+|--- |---|
+| Linear Regression | Construct a Linear Regression using a Machine Learning model |
+| President's Height | Construct a Histogram using pandas, numpy and matplotlib libraries |
 
 ## How to use this repo
 
