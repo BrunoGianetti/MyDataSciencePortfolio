@@ -12,7 +12,7 @@ Project: Distribuition of President's Heights 2.
 
 ## How to use this repo
 
-The Tech Recruiter or Student can navigate to folder and search for .py archive nominated as your function.
+The Tech Recruiter or Student can navigate into folders and search for .py and .csv archives nominated as your function. Download and manipulate it however you want.
 
 ## Technologys and Status Repo
 
