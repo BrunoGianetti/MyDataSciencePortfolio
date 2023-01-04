@@ -17,6 +17,7 @@ Project: Distribuition of President's Heights 2.
 | Linear Regression | Construct a Linear Regression using a Machine Learning model |
 | President's Height | Construct a Histogram using pandas, numpy and matplotlib libraries |
 | Statistics with Python | Full Course in Portuguese-BR |
+| Birth Rate | Construct a Linear graphs using pandas, numpy, seaborn and matplotlib libraries |
 
 ## How to use this repo
 
