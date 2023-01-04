@@ -10,6 +10,9 @@ Project: Linear Regression 1.
 Project: Distribuition of President's Heights 2.
 ![Image of Script and Runtime execution about Distribution of President's Height](https://user-images.githubusercontent.com/55636879/210118586-747aaf69-ed37-4314-aed5-5a6ffaa51962.PNG)
 
+Project: Birth Rate
+![1](https://user-images.githubusercontent.com/55636879/210467189-835d8f3b-b8b7-4680-9951-622e77881349.PNG)
+
 ## The current projects in this repo are:
 
 | Name | Description |
