@@ -2,15 +2,15 @@
 
 ## Projects description
 
-This repo contains a several projects in Python for study and show as Portfolio. The images below can ilustrate two examples of many projects that will incrise in time.
+This repo contains a several projects in Python for study and show as Portfolio. The images below can ilustrate three examples of many projects that will incrise in time.
 
-Project: Linear Regression 1.
+Project: Linear Regression.
 ![Image of Script and Runtime execution about Linear Regression](https://user-images.githubusercontent.com/55636879/210118689-1980a370-183e-472f-a39e-4e9a85ec8a19.PNG)
 
-Project: Distribuition of President's Heights 2.
+Project: Distribuition of President's Heights.
 ![Image of Script and Runtime execution about Distribution of President's Height](https://user-images.githubusercontent.com/55636879/210118586-747aaf69-ed37-4314-aed5-5a6ffaa51962.PNG)
 
-Project: Birth Rate
+Project: Birth Rate.
 ![1](https://user-images.githubusercontent.com/55636879/210467189-835d8f3b-b8b7-4680-9951-622e77881349.PNG)
 
 ## The current projects in this repo are:
