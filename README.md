@@ -21,6 +21,7 @@ Project: Birth Rate.
 | President's Height | Construct a Histogram using pandas, numpy and matplotlib libraries |
 | Statistics with Python | Full Course in Portuguese-BR |
 | Birth Rate | Construct a Linear graphs using pandas, numpy, seaborn and matplotlib libraries |
+| Linear Regression | Full Course in portuguese - BR | 
 
 ## How to use this repo
 
