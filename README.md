@@ -19,8 +19,8 @@ Project: Birth Rate.
 |--- |---|
 | Linear Regression | Construct a Linear Regression using a Machine Learning model |
 | President's Height | Construct a Histogram using pandas, numpy and matplotlib libraries |
-| Statistics with Python | Full Course in Portuguese-BR |
 | Birth Rate | Construct a Linear graphs using pandas, numpy, seaborn and matplotlib libraries |
+| Statistics with Python | Full Course in Portuguese-BR |
 | Linear Regression | Full Course in portuguese - BR |
 | Data Visualization| Full Course in portuguese - BR |
 | Statistical Tests in Python | Full Course in portuguese - BR |
