@@ -24,6 +24,7 @@ Project: Birth Rate.
 | Linear Regression | Full Course in portuguese - BR |
 | Data Visualization| Full Course in portuguese - BR |
 | Statistical Tests in Python | Full Course in portuguese - BR |
+| Analysis of experiments | Full Course in portuguese - BR |
 
 ## How to use this repo
 
