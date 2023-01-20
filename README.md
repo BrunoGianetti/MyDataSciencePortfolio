@@ -26,6 +26,7 @@ Project: Birth Rate.
 | Statistical Tests in Python | Full Course in portuguese - BR |
 | Analysis of experiments | Full Course in portuguese - BR |
 | Presidential Credit Card Spending | Who's more spendthrift since 2003? Updating by inflation |
+| Hypothesis Testing in Python | Full Course in portuguese - BR |
 
 ## How to use this repo
 
