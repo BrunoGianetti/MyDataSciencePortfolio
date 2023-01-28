@@ -28,6 +28,7 @@ Project: Birth Rate.
 | Presidential Credit Card Spending | Who's more spendthrift since 2003? Updating by inflation |
 | Hypothesis Testing with Python | Full Course in portuguese - BR |
 | Correlation and Regression with Python | Full Course in portuguese - BR |
+| Backtesting | Five years with a wallet with 2 brazilians ETFs and one fixed income bond |
 
 ## How to use this repo
 
