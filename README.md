@@ -30,6 +30,7 @@ Project: Birth Rate.
 | Correlation and Regression with Python | Full Course in portuguese - BR |
 | Backtesting | Five years with a wallet with 2 brazilians ETFs and one fixed income bond |
 | Risk Analysis | Report of stock wallet using Riskfolio library in python |
+| USDBRL Analysis | Report of price variance of currency in market future and economic american indicators |
 
 ## How to use this repo
 
