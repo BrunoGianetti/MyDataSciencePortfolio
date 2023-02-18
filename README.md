@@ -13,8 +13,9 @@ Project: Distribuition of President's Heights.
 Project: Birth Rate.
 ![1](https://user-images.githubusercontent.com/55636879/210467189-835d8f3b-b8b7-4680-9951-622e77881349.PNG)
 
-Project: USDBRL X Payroll.
+Project: USDBRL X Payroll and USDBRL X Payroll <p>
 ![3](https://user-images.githubusercontent.com/55636879/219884033-b354b78a-7b54-4ec3-941d-01d249750411.PNG)
+![2](https://user-images.githubusercontent.com/55636879/219884126-c7d7ab89-5ef4-4b48-8dfa-c954ce87aad3.PNG)
 
 
 ## The current projects in this repo are:
