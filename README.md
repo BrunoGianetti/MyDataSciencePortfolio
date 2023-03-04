@@ -36,6 +36,7 @@ Project: USDBRL X Payroll and USDBRL X Payroll <p>
 | Backtesting | Five years with a wallet with 2 brazilians ETFs and one fixed income bond |
 | Risk Analysis | Report of stock wallet using Riskfolio library in python |
 | USDBRL Analysis | Report of price variance of currency in market future and economic american indicators |
+| USDBRL Analysis | Report - Statistics about January-February describing the last 5 years |
 
 ## How to use this repo
 
