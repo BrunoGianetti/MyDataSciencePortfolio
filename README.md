@@ -37,6 +37,7 @@ Project: USDBRL X Payroll and USDBRL X Payroll <p>
 | Risk Analysis | Report of stock wallet using Riskfolio library in python |
 | USDBRL Analysis | Report of price variance of currency in market future and economic american indicators |
 | USDBRL Analysis | Report - Statistics about January-February describing the last 5 years |
+| Payroll VS Treasure 10Y | Data Analysis about 2021 - 2023 |
 
 ## How to use this repo
 
