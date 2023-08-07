@@ -39,6 +39,7 @@ Project: USDBRL X Payroll and USDBRL X Payroll <p>
 | USDBRL Analysis | Report - Statistics about January-February describing the last 5 years |
 | Payroll VS Treasure 10Y | Data Analysis about 2021 - 2023 |
 | Backtesting | Quantitative Model for Brazilian Index Future |
+| Machine Learning | Classification Behind the Scenes |
 
 ## How to use this repo
 
