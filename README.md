@@ -40,6 +40,7 @@ Project: USDBRL X Payroll and USDBRL X Payroll <p>
 | Payroll VS Treasure 10Y | Data Analysis about 2021 - 2023 |
 | Backtesting | Quantitative Model for Brazilian Index Future |
 | Machine Learning | Classification Behind the Scenes |
+| Data Analisys | Exploring 42 years of global energy sector data |
 
 ## How to use this repo
 
